@@ -2,10 +2,10 @@
 Link of colab notebook :- https://colab.research.google.com/drive/1hsl4aYAcaRKddUlmUO_p10ahqH3kO-jq?usp=sharing 
 
 
-#This repository helps in performing time series prediction on Road Dataset of nearly 25Kms
+# This repository helps in performing time series prediction on Road Dataset of nearly 25Kms
 
-#Objective-
+# Objective-
 To perform predictions of Parameter 9-13 from the given dataset for every Section.
 
-#Methodology Used-
+# Methodology Used-
 Transformed the Data into Train and Test Dataset, by extracting 10th year data for para 9-13 for every section. Applied Extra Regressor Model to implent random forest and predicted the values
